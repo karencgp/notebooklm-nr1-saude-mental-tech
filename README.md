@@ -34,6 +34,10 @@ Prompt de Plano de Ação (Direito à Desconexão): Solicitação de 3 medidas d
 - Participação Ativa: Uso de diagnósticos como COPSOQ para ouvir o time (exigência do item 1.5.3.3 da NR-1).
 - Gatilhos de Revisão: Mudança de stack tecnológica ou aumento de absenteísmo por CID mental exigem revisão imediata do PGR.
 
+📌 Documentação Complementar:
+Guia de Implementação PGR/GRO (PDF): https://github.com/karencgp/notebooklm-nr1-saude-mental-tech/blob/main/docs/Guia_Implementacao_NR1_IA.pdf
+Biblioteca de Prompts: https://github.com/karencgp/notebooklm-nr1-saude-mental-tech/blob/main/prompts/PROMPTS.md
+
 💡Visão de Futuro: A Lei em 2026.
 O gerenciamento de riscos na era da IA não é apenas técnico, é humano. Segundo a NR-1, o gestor deve identificar perigos psicossociais. Alinhado ao ESG, o foco deve ser o Upskilling (aumentar habilidades) em vez de apenas substituição, garantindo a sustentabilidade da governança corporativa.
 Como uma de suas fontes menciona recordes de afastamento em 2025  e a vigência plena da NR-1 em 2026, destaque que este repositório serve como um Framework de Prevenção Antecipada, posicionando quem o utiliza à frente do mercado de Compliance e RH estratégico
