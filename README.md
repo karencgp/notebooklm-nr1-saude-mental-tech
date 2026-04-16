@@ -1,2 +1,2 @@
-# notebooklm-nr1-saude-mental-tech
-Projeto prático utilizando NotebookLM para analisar os impactos da NR-1 e da Inteligência Artificial na saúde mental de profissionais de TI. Desafio de projeto da DIO.
+# nr1-ia-saude-mental
+Análise dos impactos da NR-1 com uso de IA (NotebookLM), explorando riscos psicossociais na área de TI e oportunidades de automação. Desafio de projeto Bootcamp da CI&T e DIO - Do Prompt ao Agente.
