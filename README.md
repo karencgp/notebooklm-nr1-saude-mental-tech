@@ -5,7 +5,7 @@ Análise dos impactos da NR-1 com uso de IA (NotebookLM), explorando riscos psic
 
 🚧 Contexto: A "segunda onda" da Inteligência Artificial trouxe avanços técnicos, mas também uma crise de segurança psicológica nas equipes de tecnologia. O medo da substituição (AI-Anxiety), a pressão por produtividade e o risco de layoffs em massa tornaram-se riscos ocupacionais reais.
 
-🎯 Objetivo: Analisar os impactos da nova NR-1 no ambiente de tecnologia, utilizando IA para gerenciar riscos psicossociais como o Tecnoestresse e a Ansiedade por IA.
+🎯 Objetivo: Analisar os impactos da nova NR-1 no ambiente de tecnologia, utilizando IA para gerenciar riscos psicossociais como o Tecnoestresse e a Ansiedade por IA para aplicar em ambientes corporativos.
 
 📌 Tecnologias Utilizadas: NotebookLM (Google), GitHub (Portfólio), ChatGPT/Gemini (Apoio na estruturação)
 
@@ -33,6 +33,14 @@ Prompt de Plano de Ação (Direito à Desconexão): Solicitação de 3 medidas d
 3. Guia de Implementação PGR (Checklist) 
 - Participação Ativa: Uso de diagnósticos como COPSOQ para ouvir o time (exigência do item 1.5.3.3 da NR-1).
 - Gatilhos de Revisão: Mudança de stack tecnológica ou aumento de absenteísmo por CID mental exigem revisão imediata do PGR.
+
+📚 Curadoria de Fontes
+Para a construção do caderno temático no NotebookLM, foram selecionadas fontes confiáveis e relevantes sobre NR-1, riscos psicossociais e ESG, com foco na aplicação no contexto da área de tecnologia:
+- NR-1 atualizada – Norma Regulamentadora sobre Gerenciamento de Riscos Ocupacionais (GRO)
+- Artigos e materiais sobre riscos psicossociais no ambiente de trabalho
+- Guias e referências sobre práticas de ESG (Environmental, Social and Governance)
+- Curso "NR-1 e Saúde Mental no Trabalho" – Educação Sólides
+🔗 A lista completa de fontes utilizadas, está disponível em: https://github.com/karencgp/notebooklm-nr1-saude-mental-tech/blob/main/src_material/fontes.md
 
 📌 Documentação Complementar:
 Guia de Implementação PGR/GRO (PDF): https://github.com/karencgp/notebooklm-nr1-saude-mental-tech/blob/main/docs/Guia_Implementacao_NR1_IA.pdf
